@@ -386,26 +386,29 @@ section .title::after{
     top: 0;
     background: #8ec3eb ;
 }
-.skills-content .right .html::before{
+.skills-content .right .ReactJS::before{
     width: 100%;                                                                     /*#8ec3eb*/
 }
-.skills-content .right .css::before{
-    width: 90%;
+.skills-content .right .NodeJS::before{
+    width: 95%;
 }
 .skills-content .right .js::before{
-    width: 70%;
+    width: 95%;
 }                                                                           
-.skills-content .right .react::before{
-    width: 80%;
+.skills-content .right .JAVA::before{
+    width: 95%;
 }
 .skills-content .right .python::before{
-    width: 60%;                                                                  /*#8ec3eb*/
+    width: 85%;                                                                  /*#8ec3eb*/
 }
-.skills-content .right .java::before{
-    width: 90%;
+.skills-content .right .MYSQL::before{
+    width: 80%;
 }
-.skills-content .right .c::before{
-    width: 50%;
+.skills-content .right .HTML ::before{
+    width: 100%;
+}
+.skills-content .right .css::before{
+    width: 100%;
 }
                                                                                    /*#8ec3eb*/
 
@@ -733,3 +736,4 @@ footer span a:hover{
        
     }
 }
+
